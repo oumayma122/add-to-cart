@@ -23,3 +23,7 @@ describe('CartComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+function expect(component: CartComponent) {
+  throw new Error('Function not implemented.');
+}
+

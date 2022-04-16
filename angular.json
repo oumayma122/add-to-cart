@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "add-to-cart"
+  "defaultProject": "add-to-cart",
+  "cli": {
+    "analytics": "d26ac3fb-6a13-4a93-9664-ed603cab5628"
+  }
 }
